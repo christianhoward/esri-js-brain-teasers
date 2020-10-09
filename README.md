@@ -1,7 +1,5 @@
-Teasers
+# Brain Teasers
 
--[ ] loadWebMap - Debug Challenge
-
--[ ] mapImageLayer - Debug Challenge
-
--[ ] createWebScene - Creation Challenge
+- [ ] loadWebMap - Debug Challenge
+- [ ] mapImageLayer - Debug Challenge
+- [ ] createWebScene - Creation Challenge
