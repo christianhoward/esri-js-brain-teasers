@@ -1,0 +1,3 @@
+.DS_Store
+# To prevent accidental `npm i` / node modules commits
+/node_modules
